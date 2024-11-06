@@ -22,3 +22,13 @@ f=type(a)
 print(d)
 print(e)
 print(f)
+
+g=int(c)
+print(g)
+
+
+# power of number
+a=2
+b=3
+c=a**b
+print(c)
